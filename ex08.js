@@ -10,4 +10,3 @@
   Calcule e mostre quantos pontos ela teve e quanto dinheiro ela conseguiu ganhar.
 */
 
-// Teste
